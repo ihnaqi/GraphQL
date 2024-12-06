@@ -1,0 +1,5 @@
+# Don't need to include node_modules in the repo
+node_modules/
+
+.env
+
